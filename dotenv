@@ -1,0 +1,15 @@
+# API Configs (Source for EV Session Data):
+API_KEY=api_key
+API_URL=api_url
+
+# API Configs POST (For Posting Forecasts):
+API_URL_POST=api_url_post
+API_KEY_POST=api_key_post
+
+# Email Configs (For Sending Notifications):
+EMAIL_HOST= email_host
+EMAIL_PORT=email_port
+EMAIL_PASSWORD=email_password
+EMAIL_SENDER=email_sender
+EMAIL_RECIPIENTS=email_recipients
+EMAIL_RECIPIENTS_DEBUG=email_debug_recipients
