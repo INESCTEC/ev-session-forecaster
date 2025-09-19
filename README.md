@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="docs/logo.png" alt="Project Logo" width="160"/>
+  <img src="docs/logo.png" alt="Project Logo" width="250"/>
 </p>
-
-# EV Session Forecaster
 
 ## Description:
 
